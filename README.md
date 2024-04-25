@@ -9,7 +9,7 @@
 
 - 💬 I specialize in **Manual and Automation Testing**
 
-- 📄 Click here to get a copy of my CV to know about my experiences <a href="https://bit.ly/matachi" target="_blank" rel="noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/128/909/909212.png" alt="postman" width="40" height="40"></a>
+- 📄 To know about my experiences click on the CV Icon <a href="https://bit.ly/matachi" target="_blank" rel="noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/128/909/909212.png" alt="postman" width="40" height="40"></a>
 
 
 <h3 align="left">Connect with me:</h3>
